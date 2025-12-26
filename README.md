@@ -1,4 +1,4 @@
-# AI-Supported Patient Tracking Platform (Lite)
+son olarak projenin readmi dosyasını güncelledim : # AI-Supported Patient Tracking Platform (Lite)
 
 A simple patient tracking application developed as a short case study.  
 The project demonstrates a basic full-stack setup using Angular and .NET 8 Web API with JWT authentication.
@@ -45,10 +45,11 @@ The project demonstrates a basic full-stack setup using Angular and .NET 8 Web A
 
 ### Backend
 ```bash
+cd case1
+dotnet restore
 dotnet run
-Backend `https://localhost:5001` 
-Swagger UI: `https://localhost:5001/swagger`
 http://localhost:5149/swagger
+cd case1-frontend
 npm install
 npm start
 Frontend `http://localhost:4200` 
@@ -59,4 +60,6 @@ Frontend `http://localhost:4200`
   "dateOfBirth": "1980-06-15",
   "password": "password123"
 }
-** ASLINUR ŞEVVAL SEZGİN : " İNCELEDİĞİNİZ İÇİN TEŞEKKÜR EDERİM " :=) ** 
+— Aslınur Şevval Sezgin  
+Thank you for reviewing this project.
+ :=)  
